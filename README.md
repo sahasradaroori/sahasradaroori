@@ -32,37 +32,35 @@
 
 # 👩‍💻 Newest Projects
 
-### 🚀 Frontend Projects
-- Responsive Portfolio Website
-- Modern Landing Pages
-- Interactive JavaScript Projects
+## 🔹 Machine Learning Projects
+- Titanic Survival Analysis  
+- Netflix Content Strategy Analysis  
+- Housing Market Trend Predictor  
+- Customer Segmentation System  
+- Customer Churn Prediction System  
+- Heart Disease Predictor  
+- AI Data Analysis Assistant  
 
-### 🤖 AI/ML & Data Science
-- Beginner ML Models
-- Data Analysis Projects
-- GenAI Learning Projects
+## 🔹 Deep Learning Projects
+- Digit Recognizer  
+- Transfer Learning Image Classifier  
+- Real-Time Object Detector  
+- Deep Learning Time Series Forecasting  
+- Intelligent Image Search Engine  
+- Smart OCR Bot  
+- AI Resume Analyzer  
 
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+## 🔹 GenAI Projects
+- Custom GPT Text Generation Engine  
+- RAG Chatbot  
+- Natural Language to SQL Generator  
+- AI-Powered Newsletter Pipeline  
+- Autonomous Market Analyst AI Agent  
+- Background Verification & Diligence Agent  
+- GenAI Study Assistant
 
 </div>
+
 # 💫 About Me:
 💡 Second-Year CSE AIML Student passionate about AI & GenAI<br><br>🤖 Building real-world projects using ML, DL & Generative AI<br><br>📊 Currently growing in Python, SQL & Data Science<br><br>💻 Exploring Frontend Development & creative tech projects<br><br>🚀 Learning by building hands-on projects independently<br><br>🌱 Beginner-friendly Open Source & Tech Community Enthusiast
 
