@@ -1,13 +1,68 @@
-# 👋 Hello , I'm Sahasra Daroori  
-**A passionate Computer Science student specializing in AI & ML feild !**  
+<div align="center">
 
-📧 **Email Me 👉 yourmail@example.com** for collaborations, projects, and tech discussions  
+# Hey, I'm Sahasra Daroori 👋
 
-- 🔭 **I’m currently working on:** GenAI, ML, DL, and AI-based projects  
-- 🌱 **I’m currently learning:** Python, Data Science, and modern AI technologies  
-- 👯 **I’m looking to collaborate on:** AI projects and beginner-friendly open source contributions  
-- 📫 **How to reach me:** yourmail@example.com  
-- ⚡ **Fun fact:** I enjoy turning ideas into real-world projects and learning by building 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=CSE+Second-Year+Student;2026+GSSoC+Contributor;Data+Science+Enthusiast+%7C+ML+DL+GenAI+Developer" />
+
+<br>
+
+### CS Student • Data Science Enthusiast • DL • GenAI • ML Developer
+
+### 2nd Year CS Student Specializing in AI/ML
+
+📍 Hyderabad, India &nbsp; • &nbsp; 🚀 Open to Internship Opportunities
+
+<br>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=39FF14">
+</a>
+
+</div>
+
+---
+
+# 👩‍💻 Newest Projects
+
+### 🚀 Frontend Projects
+- Responsive Portfolio Website
+- Modern Landing Pages
+- Interactive JavaScript Projects
+
+### 🤖 AI/ML & Data Science
+- Beginner ML Models
+- Data Analysis Projects
+- GenAI Learning Projects
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+
+</div>
 # 💫 About Me:
 💡 Second-Year CSE AIML Student passionate about AI & GenAI<br><br>🤖 Building real-world projects using ML, DL & Generative AI<br><br>📊 Currently growing in Python, SQL & Data Science<br><br>💻 Exploring Frontend Development & creative tech projects<br><br>🚀 Learning by building hands-on projects independently<br><br>🌱 Beginner-friendly Open Source & Tech Community Enthusiast
 
