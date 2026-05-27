@@ -69,8 +69,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xduaVakGq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahasra-daroori-947827323/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Foreign-Shine-3028) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DarooriSah85864) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daroorisahasra@gmail.com) 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahasradaroori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 💻 Tech Stack:
